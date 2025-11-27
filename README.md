@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi — I'm Chaitanya 👋
+M.Sc. Data Science | ML Engineer | Data Analyst  
+I build end-to-end machine learning systems: data cleaning → modeling → deployment.
 
-<!--
-**raptor0323/raptor0323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently: polishing an ML pipeline for recyclable/organic classification (Streamlit demo).  
+🌱 Learning: production ML infra, MLflow, advanced model explainability.  
+📫 Reach me: chaitanyadahale2003@gmail.com | LinkedIn: linkedin.com/in/yourname | Resume: /resume.pdf
 
-Here are some ideas to get you started:
+## Pinned Projects
+- **recyclable-organic-classifier** — End-to-end image classifier. 92% F1, Streamlit demo.  
+- **customer-churn-pipeline** — Feature store + model pipeline + Docker deployment.  
+- **eda-world-happiness** — Clean EDA + interactive plots demonstrating actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+Python • Pandas • NumPy • scikit-learn • PyTorch • SQL • Docker • GitHub Actions • Streamlit
+
+> Want a tailored walkthrough of any project? Ping me — I’ll share the architecture & code walkthrough.
