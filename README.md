@@ -6,7 +6,7 @@
 
 ---
 
-> I don't just build models — I ship systems.  
+> Don't just build models, ship systems.  
 > RAG chatbots in production. CRMs managing 500+ leads. NLP pipelines processing 40K+ samples.  
 > Currently a Data Science Engineer at Bits & Bytes Services, working across the full lifecycle: scoping → architecture → deployment.
 
